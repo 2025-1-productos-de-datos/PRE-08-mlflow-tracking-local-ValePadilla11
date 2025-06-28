@@ -1,0 +1,15 @@
+artifact_uri: file:C:\GitHub\PRE-08-mlflow-tracking-local-JulianHernandez1944\my_mlruns/724563738304473764/71fe1067ab084460942b5d1919875beb/artifacts
+end_time: 1748702251654
+entry_point_name: ''
+experiment_id: '724563738304473764'
+lifecycle_stage: active
+run_id: 71fe1067ab084460942b5d1919875beb
+run_name: elasticnet_cbbb4256
+run_uuid: 71fe1067ab084460942b5d1919875beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748702251584
+status: 3
+tags: []
+user_id: USUARIO

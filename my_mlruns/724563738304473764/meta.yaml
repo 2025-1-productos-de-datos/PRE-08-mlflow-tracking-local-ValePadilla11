@@ -1,0 +1,6 @@
+artifact_location: file:C:\GitHub\PRE-08-mlflow-tracking-local-JulianHernandez1944\my_mlruns/724563738304473764
+creation_time: 1748702251305
+experiment_id: '724563738304473764'
+last_update_time: 1748702251305
+lifecycle_stage: active
+name: wine_quality_experiment
